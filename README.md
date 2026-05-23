@@ -1,3 +1,9 @@
+# Tech Challenge — Análise Estratégica do Setor Vitivinícola Brasileiro
+
+Projeto desenvolvido na Pós-Tech FIAP com foco em análise histórica do setor vitivinícola brasileiro entre 1970 e 2025.
+
+O projeto utiliza Python e técnicas de Data Analytics para analisar exportações, importações, produção nacional e fatores climáticos, transformando dados históricos em insights estratégicos.
+
 ## Links do projeto
 
 - Notebook Google Colab:
