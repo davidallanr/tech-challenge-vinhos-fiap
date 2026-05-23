@@ -7,3 +7,4 @@ https://colab.research.google.com/drive/1M_fiTcrVwXYh70XOG7yHkLLksZMM385q?usp=sh
 https://youtu.be/HIVxruPsue8
 
 - PDF da apresentação disponivel 
+https://github.com/davidallanr/tech-challenge-vinhos-fiap/blob/main/apresentacao_final.pdf
